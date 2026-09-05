@@ -33,7 +33,7 @@ Yo saber sobre un millón cosas
 Yo'ré hacer cada cosa
 
 Venir, venir más cerca
-Venir ser mi amigo, no'cer ser pues asustado (amor mí)
+Venir ser mi amigo, no'ser ser pues asustado (amor mí)
 
 Hey, ello's mí, ello's Veridad (la-la-la-la)
 Preguntar mí cualquier cosa (la-la-la-la)

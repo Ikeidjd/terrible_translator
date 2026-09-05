@@ -21,6 +21,13 @@ def translate(s: str) -> str:
 
         out += words[word] + c
 
+    word = s[prev:len(s)]
+
+    if word not in words:
+        words[word] = input(f"{word}: ")
+
+    out += words[word]
+
     with open("words.json", "w") as file:
         json.dump(words, file)
 
